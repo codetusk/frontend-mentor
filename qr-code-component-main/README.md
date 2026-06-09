@@ -19,7 +19,7 @@ Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
 ### Screenshot
 
-![Screenshot of the QR code component solution](./screenshot.png)
+![Screenshot of the QR code component solution](./images/screenshot.png)
 
 ### Links
 
